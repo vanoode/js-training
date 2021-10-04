@@ -1,1 +1,1 @@
-console("piotr")
+console.log("piotr")
