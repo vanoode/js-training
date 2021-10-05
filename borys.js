@@ -1,1 +1,1 @@
-console.log('borys, Hello World')
+console.log('let me intoduce myslef. Im borys. Hello World')
